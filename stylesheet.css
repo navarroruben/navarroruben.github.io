@@ -1,0 +1,32 @@
+.center_logo {
+    position: absolute;
+    top: 40%;
+    right: 45%;
+    transform: translateY(-50%);
+}
+
+.submit_button_format {
+  position: absolute;
+  top: 55%;
+  right: 45.5%;
+    transform: translateY(-50%);
+}
+
+.submit_button_format_images {
+  position: absolute;
+  top: 55%;
+  right: 49%;
+    transform: translateY(-50%);
+}
+
+.images_text_position {
+  position: absolute;
+  top: 90%;
+  right: 0%;
+  color: #4285F4;
+    transform: translateY(-50%);
+}
+
+.advanced_search_text {
+  margin-left: 75px;
+}
